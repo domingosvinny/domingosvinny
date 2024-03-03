@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinicius Domingos ✌🏾
 
 <p>Estudando para ingressar na área de Tecnologia da Informação - TI, atualmente participo do projeto Campinho Digital -
-PROGRAMAÇÃO WEB FRONT-END</p>
+PROGRAMAÇÃO WEB FRONT-END.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-domingos-877639195/)
 
